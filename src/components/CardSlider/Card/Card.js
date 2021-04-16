@@ -66,7 +66,7 @@ const card = (props) => {
             <CardActionArea key={value.id}>
               <CardMedia
                 className={classes.media}
-                image={`https://openweathermap.org/img/wn/${value.icon}@4x.png`}
+                image={`http://openweathermap.org/img/wn/${value.icon}@4x.png`}
                 alt={"OpenWeather Icon"}
                 title="Contemplative Reptile"
               />
