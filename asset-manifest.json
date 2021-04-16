@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-weather-exercise/static/css/main.e60fc2eb.chunk.css",
+    "main.js": "/react-weather-exercise/static/js/main.c65713bc.chunk.js",
+    "main.js.map": "/react-weather-exercise/static/js/main.c65713bc.chunk.js.map",
+    "runtime-main.js": "/react-weather-exercise/static/js/runtime-main.74e5dac2.js",
+    "runtime-main.js.map": "/react-weather-exercise/static/js/runtime-main.74e5dac2.js.map",
+    "static/js/2.d704a1d2.chunk.js": "/react-weather-exercise/static/js/2.d704a1d2.chunk.js",
+    "static/js/2.d704a1d2.chunk.js.map": "/react-weather-exercise/static/js/2.d704a1d2.chunk.js.map",
+    "index.html": "/react-weather-exercise/index.html",
+    "static/css/main.e60fc2eb.chunk.css.map": "/react-weather-exercise/static/css/main.e60fc2eb.chunk.css.map",
+    "static/js/2.d704a1d2.chunk.js.LICENSE.txt": "/react-weather-exercise/static/js/2.d704a1d2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-weather-exercise/static/media/background-image.af957e02.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74e5dac2.js",
+    "static/js/2.d704a1d2.chunk.js",
+    "static/css/main.e60fc2eb.chunk.css",
+    "static/js/main.c65713bc.chunk.js"
+  ]
+}
