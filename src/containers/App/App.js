@@ -4,7 +4,7 @@ import Weather from "../Weather/Weather";
 
 class App extends Component {
   style = {
-    backgroundImage: "url(/background-image.jpg)",
+    backgroundImage: "url(./background-image.jpg)",
     height: "100%",
     backgroundSize: "cover",
     backgroundRepeat: "no-repeat",
