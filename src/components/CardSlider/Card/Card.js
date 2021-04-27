@@ -88,7 +88,7 @@ const card = (props) => {
                   {`Average: ${
                     props.selectedValue === "celcius"
                       ? value.temp + " °C"
-                      : value.temp * 1.8 + 32 + " °F"
+                      : (value.temp * 1.8 + 32).toFixed(1) + " °F"
                   }`}
                 </Typography>
               </CardContent>
